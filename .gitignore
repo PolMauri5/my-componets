@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Dist folder (built files)
+dist/
+
+# Mac system files
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Output files
+dist/
+build/
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Lockfiles
+package-lock.json
+yarn.lock
+
+# iOS / Android (if applicable)
+ios/Pods/
+ios/build/
+android/.gradle/
+android/app/build/
+
+# Build artifacts (React Native specific)
+.expo/

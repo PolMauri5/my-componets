@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Directorio fuente (solo distribuyes el código compilado)
+src/
+
+# Archivos de configuración de desarrollo
+tsconfig.json
+.eslintrc
+.prettierrc
+.vscode/
+
+# Otros archivos que no quieres incluir
+package-lock.json
+yarn.lock
